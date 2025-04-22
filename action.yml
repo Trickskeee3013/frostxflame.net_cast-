@@ -1,11 +1,11 @@
-name: The name of your action here
-description: Provide a description here
-author: Your name or organization here
+name: The frosty brew CAST 
+description: Provide a description here  is a talking discord to create and talk with communities alike.
+author: Frostxflame.net
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
-  icon: heart
-  color: red
+  icon: owl
+  color: green/blue
 
 # Define your inputs here.
 inputs:
